@@ -1,0 +1,19 @@
+{
+  "title": "iOS逆向：举例详解",
+  "description": "通过具体的例子，详细介绍iOS逆向的过程，以便于更好的理解如何进行iOS逆向的开发。具体例子有，WhatsApp中的StringAppend_100314974函数。",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "ios_re_detail_example"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.org/books/ios_re_detail_example/website/"
+    },
+    "toolbar-button": {
+      "url": "https://book.crifan.org/books/ios_re_detail_example/pdf/ios_re_detail_example.pdf"
+    }
+  }
+}
